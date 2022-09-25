@@ -1,0 +1,28 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+.primeraImg{ width: 100%;
+   
+    height: 70vh;
+    
+     
+ } 
+
+ .divDeTexto{
+    text-align: right;
+    padding: 15rem;
+    font-weight: bolder;
+    font-size: xx-large;
+    
+ }
+
+ .divDeTexto p{
+    font-size: small;
+ }
+ 
+ .oradoresClass {text-align: center; }
+ 
+ .bolderDeTexto{ font-weight: 600;}
+
+
